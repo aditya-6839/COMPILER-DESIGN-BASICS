@@ -27,3 +27,5 @@ Optimization – Improving efficiency by reducing unnecessary operations.
 Code Generation – Producing final executable code.
 Each module is implemented independently to ensure modularity and clarity. The project uses C or Python for implementation, with a structured approach to parsing and processing input code.
 
+**OUTPUT** :
+https://github.com/user-attachments/files/18871443/Task.3.op.docx
